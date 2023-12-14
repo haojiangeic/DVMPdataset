@@ -1,0 +1,10 @@
+Generator: EpIC    https://pawelsznajder.github.io/epic
+Metadata:
+    EPIC\|1.0.0\|2017-07-18 | Select specific GPD types
+    A generated_events_number 100000
+    A generation_date Thu Feb  2 09:41:24 2023\|
+    A hadron_polarisation 0|0|0
+    A integrated_cross_section_uncertainty 0.000209096431318754
+    A integrated_cross_section_value 0.152157370348989
+    A lepton_polarisation 1
+    A service_name DVMPGeneratorService
